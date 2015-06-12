@@ -1,5 +1,11 @@
 # Membergroup-Badges
-Some Basic Membergroup Badges
+Some Basic Membergroup Badges<br />
+
+[![Forks](https://img.shields.io/github/forks/BK-Templates/Membergroup-Badges.svg)](https://github.com/BK-Templates/Membergroup-Badges/network)
+[![Stars](https://img.shields.io/github/stars/BK-Templates/Membergroup-Badges.svg)](hhttps://github.com/BK-Templates/Membergroup-Badges/stargazers)
+[![Open Issues](https://img.shields.io/github/issues/BK-Templates/Membergroup-Badges.svg)](https://github.com/BK-Templates/Membergroup-Badges/issues)
+[![Current Release](https://img.shields.io/github/release/BK-Templates/Membergroup-Badges.svg)](https://github.com/BK-Templates/Membergroup-Badges/releases)
+[![License](https://img.shields.io/badge/License-Creative%20Commons%20License-red.svg)](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
 
 Image Pack Name:<br />
 Membergroup Badges<br />
